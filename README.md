@@ -1,6 +1,6 @@
 <body>
 <h1> SI-UKS-v0.2 </h1>
-<p>Sistem Informasi UKS ini merupakan hasil aplikasi yang saya buat sebagai Tugas Akhir meskipun belum sempurna ,<strong>Dibuat dengan :</strong></p>
+<p>Sistem Informasi UKS ini merupakan hasil aplikasi yang saya buat sebagai Tugas Akhir.<strong>Dibuat dengan :</strong></p>
     <strong>Front-end Web</strong>
     <ol>
         <ul>
