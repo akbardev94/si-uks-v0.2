@@ -1,0 +1,48 @@
+220 smtp.googlemail.com ESMTP c127sm3962359pfb.5 - gsmtp
+hello: 250-smtp.googlemail.com at your service, [36.85.57.232]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at 535 5.7.8 https://support.google.com/mail/?p=BadCredentials c127sm3962359pfb.5 - gsmtp
+Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.
+Date: Thu, 5 Sep 2019 18:13:23 +0200
+From: "One Punch" <punchone53@gmail.com>
+Return-Path: <punchone53@gmail.com>
+To: ratnawatii.1803@gmail.com
+Subject: =?UTF-8?Q?Account=20Verification?=
+Reply-To: <punchone53@gmail.com>
+User-Agent: CodeIgniter
+X-Sender: punchone53@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <5d713423c1e28@gmail.com>
+Mime-Version: 1.0
+
+
+Content-Type: multipart/alternative; boundary="B_ALT_5d713423c1e70"
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5d713423c1e70
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Click this link to verify you account :
+ Activate
+
+
+--B_ALT_5d713423c1e70
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Click this link to verify you account : =3Ca href=3D=22http://localhost/wpu=
+-login/auth/verify?email=3Dratnawatii.1803=40gmail.com=26token=3DDA591X4Ak3=
+N6Pz=252Fusl8RWjSfvUIFet=252Bg3gH7ZiAb7HA=253D=22=3E
+ Activate=3C/a=3E
+
+--B_ALT_5d713423c1e70--
