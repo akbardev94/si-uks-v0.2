@@ -1,6 +1,5 @@
 <body>
 <h1> SI-UKS-v0.2 </h1>
-<p>Sistem Informasi UKS ini merupakan hasil aplikasi yang saya buat sebagai Tugas Akhir.<strong>Dibuat dengan :</strong></p>
     <strong>Front-end Web</strong>
     <ol>
         <ul>
@@ -65,7 +64,6 @@
         <img src="image/login-page.jpg")
              <h2>Back-End Page 1<h2>
         <img src="image/back-end_page1.jpg")
-             <h2>Back-End Page 2<h2>
          <img src="image/back-end_page2.jpg")
     </body>
 
