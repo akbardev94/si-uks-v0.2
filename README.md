@@ -64,6 +64,7 @@
         <img src="image/login-page.jpg")
              <h2>Back-End Page 1<h2>
         <img src="image/back-end_page1.jpg")
+			 <h2>Back-End Page 2<h2>
          <img src="image/back-end_page2.jpg")
     </body>
 
