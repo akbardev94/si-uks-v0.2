@@ -1,10 +1,10 @@
-const baseUrl = 'http://localhost/si-uks/';
+const baseUrl = 'http://localhost/si-uks-v0.2/';
 
 //----------------------------------------- DATA SECTION ---------------------------------------------//
 
 //-------------------------------------// SEKOLAH EDIT//---------------------------------------//
 function sekolahEdit(id) {
-	$('.sekolah-title').html('Edit sekolaha')
+	$('.sekolah-title').html('Edit sekolah')
 	$('.sekolah-footer button[type=submit]').html('Edit')
 	$('.sekolah-footer button[type=submit]').attr('class', 'btn btn-success')
 	$('.sekolah-form').attr('action', baseUrl + 'data/dataSekolah')

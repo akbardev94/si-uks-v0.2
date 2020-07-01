@@ -24,11 +24,11 @@
     <div class="card-body bg-gradient-warning  mb-3 col-xl-12">
         <div class="row">
             <div class="col-lg-3 d-none d-lg-block">
-                <img src="assets/img/client-2.png" width="160px" height="160px" alt="UKS" class="ml-4 img-responsive"></div>
+                <img src="assets/img/logo1.png" width="160px" height="160px" alt="UKS" class="ml-4 img-responsive"></div>
             <div class="col-lg-7">
                 <h1 class="display-8 text-center font-weight-bold text-success">USAHA KESEHATAN SEKOLAH</h1>
-                <h1 class="display-8 text-center font-weight-bold text-primary">SDI MOHAMMAD HATTA</h1>
-                <h1 class="display-6 text-center font-weight-bold">KOTA MALANG</h1>
+                <h1 class="display-8 text-center font-weight-bold text-danger">INDO<span class="text-white">NESIA<span></h1>
+                <h1 class="display-6 text-center font-weight-bold">SEHAT & KUAT</h1>
             </div>
         </div>
     </div>

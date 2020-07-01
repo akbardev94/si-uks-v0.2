@@ -7,7 +7,7 @@
             <i class="fas fa-laptop-medical"></i>
             <!-- <img src="assets/img/logo1.png" width="35px" height="35" alt=""></<img> -->
         </div>
-        <div class="sidebar-brand-text mx-3">SI-UKS<br>SDIMH</div>
+        <div class="sidebar-brand-text mx-3">SI-UKS<br>SD-SMP-SMA</div>
     </a>
 
     <!-- Divider -->

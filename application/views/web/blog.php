@@ -9,7 +9,7 @@
   <meta content="" name="description">
 
   <!-- Favicons -->
-  <link href="<?= base_url(); ?>assets/img/favicon.png" rel="icon">
+  <link  rel="icon" type="image/png" href="assets/img/favicon.png">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel=" stylesheet">
@@ -44,7 +44,7 @@
         <div class="logo float-left">
           <!-- Uncomment below if you prefer to use an image logo -->
 
-          <h1 class="text-light"><img src="assets/img/sdimh.png" class="mb-3"><a href="#intro" class="scrollto"><span class="ml-3 mb-2">SI-UKS</span></a></h1>
+          <h1 class="text-light"><img src="assets/img/uks.png" class="mb-3"><a href="#intro" class="scrollto"><span class="ml-3 mb-2">SI-UKS</span></a></h1>
           <!-- <a href="#header" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"></a> -->
         </div>
 
@@ -54,7 +54,7 @@
             <li><a href="#about">Chart</a></li>
             <li><a href="#portfolio">About</a></li>
             <li><a href="#footer">Contact Us</a></li>
-            <li><a href="<?= base_url('auth') ?>" class="btn success">Login</a>
+            <li><a href="<?= base_url('auth'); ?>" class="btn success">Login</a>
             </li>
           </ul>
         </nav><!-- .main-nav -->
@@ -69,7 +69,7 @@
     <div class="container d-flex h-100">
       <div class="row justify-content-center align-self-center">
         <div class="col-md-6 intro-info order-md-first order-last">
-          <h2 class="text-responsive">Ini merupakan<br>website halaman depan <span>Sistem Informasi UKS</span></h2>
+          <h2 class="text-responsive">Ini merupakan web<br>halaman depan<br><span>Sistem Informasi UKS</span></h2>
           <div>
             <a href="#portfolio" class="btn-get-started scrollto">Read More</a>
             <div class="social-links ml-1 mt-2 fa-2x">
@@ -356,11 +356,9 @@
         <h3>Support By</h3>
       </header>
       <div class="owl-carousel clients-carousel">
-        <img src="assets/img/clients/client-1.png" alt="">
-        <img src="assets/img/clients/client-2.png" height="90px" alt="">
-        <img src="assets/img/clients/client-3.png" alt="">
-        <img src="assets/img/clients/client-4.png" height="100px" alt="">
-
+        <img src="assets/img/clients/client-1.png" height="120px" width="120px" alt="">
+        <img src="assets/img/clients/client-2.png" height="120px" width="100px" alt="">
+        <img src="assets/img/clients/client-3.png" height="120px" width="100px" alt="">
       </div>
 
     </div>
@@ -417,9 +415,9 @@
                 <div class="footer-links">
                   <h4>Useful Links</h4>
                   <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Chart</a></li>
-                    <li><a href="#">About</a></li>
+                    <li><a href="#intro">Home</a></li>
+                    <li><a href="#about">Chart</a></li>
+                    <li><a href="#portofolio">About</a></li>
                     <li><a href="#">Terms of service</a></li>
                     <li><a href="#">Privacy policy</a></li>
                   </ul>
@@ -428,11 +426,11 @@
                 <div class="footer-links">
                   <h4>Contact Us</h4>
                   <p>
-                    Simpang Flamboyan Street No.30 <br>
+                    Simpang Tiga Street, <br>
                     Malang, 65163<br>
                     Jawa Timur <br>
-                    <strong>Phone:</strong> +62 431 413 003<br>
-                    <strong>Email:</strong> admsdimh@gmail.com<br>
+                    <strong>Phone:</strong> +62 431 123 123<br>
+                    <strong>Email:</strong> uks.indonesia@gmail.com<br>
                   </p>
                 </div>
 
