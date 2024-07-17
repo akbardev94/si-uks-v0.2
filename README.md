@@ -1,4 +1,5 @@
 <body>
+<h1><span style="color:red">Notice:</span> mohon tidak untuk di perjualbelikan, Terima Kasih</h1>	
 <h1> SI-UKS-v0.2 </h1>
     <strong>Front-end Web</strong>
     <ol>
